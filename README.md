@@ -12,16 +12,15 @@ Estudante de desenvolvimento web focado em JavaScript, construindo as minhas pri
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://jsdelivr.net" height="40" alt="javascript logo"  />
+  <img src="https://shields.io" alt="JavaScript" />
 </div>
 
-## 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
+  <img src="https://vercel.app" alt="Resumo do Perfil" width="400px" />
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" width="400px" />
 </div>
-
 ---
 
 
