@@ -13,6 +13,8 @@ Estudante de desenvolvimento web focado em JavaScript, construindo as minhas pri
 
 <div align="left">
   <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
 </div>
 
 ## 📊 Estatísticas do GitHub
