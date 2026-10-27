@@ -13,7 +13,7 @@ Estudante de desenvolvimento web focado em JavaScript, construindo as minhas pri
 
 Acompanhe os cursos que concluí recentemente na plataforma:
 
-* 📜 **C#: Dominando Orientação a Objetos** (8) - [Visualizar Certificado Oficial](https://cursos.alura.com.br/certificate/de923cb1-5e1d-45a4-9fe4-7938f513b922?lang=pt_BR)
+* 📜 **C#: Dominando Orientação a Objetos** (8h) - [Visualizar Certificado Oficial](https://cursos.alura.com.br/certificate/de923cb1-5e1d-45a4-9fe4-7938f513b922?lang=pt_BR)
 * 📜 **C#: aplicando a Orientação a Objetos** (8h) -  [Visualizar Certificado Oficial](https://cursos.alura.com.br/certificate/094365ab-074e-402c-9639-08b08b5dd816?lang=pt_BR)
 * 📜 **Lógica de programação: explore funções e listas** (6h) — [Visualizar Certificado Oficial](https://cursos.alura.com.br/certificate/3e1310db-9e1d-4fc3-b2ce-a57db75082fe?lang=pt_BR)
 * 📜 **Lógica de programação: mergulhe em programação com JavaScript** (6h) — [Visualizar Certificado Oficial](https://cursos.alura.com.br/certificate/c1842ce3-4d7d-4bd1-b39d-0141b21fb4e0?lang=pt_BR)
