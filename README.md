@@ -1,6 +1,6 @@
 # Hi there, eu sou o Pedro 👋
 
-Estudante de desenvolvimento web focado em JavaScript, construindo as minhas primeiras aplicações e evoluindo a cada dia na programação.
+Estudante de desenvolvimento de softwares focado em C#/.NET, construindo as minhas primeiras aplicações e evoluindo a cada dia na programação.
 
 ## 📚 Sobre mim
 
